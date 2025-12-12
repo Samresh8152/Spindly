@@ -1,6 +1,9 @@
 
 export default function Home() {
   return (
-    <h1>Samu</h1>
+    <div className="mt-40">
+        <h1>Samu</h1>
+    </div>
+    
   );
 }
